@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ceap</string>
+    <string name="titulo">Titulo</string>
+    <string name="descricao">Descricao</string>
+    <string name="salvar">salvar</string>
+    <string name="salvar_nota">Salvar nota</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
 </resources>
